@@ -23,7 +23,7 @@ fun main() {
     }
 
     /**
-     * Day 1
+     * Day 1: Historian Hysteria
      */
 
     fun part1(input: NumberPairs): Int {
